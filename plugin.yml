@@ -1,0 +1,7 @@
+name: kLightningKill
+main: knife\kill
+version: 1.0.0
+api: [1.0.0, 2.0.0]
+author: KnifeMCPE
+website: http://vk.com/andrey.beliht
+ 
